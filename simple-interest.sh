@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <githup_FinalProject >
+   # <github_FinalProject >
 
    # Input:
    # p, principal amount
